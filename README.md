@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0268-missing-number) |
+| [0009-palindrome-number](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0009-palindrome-number) |
 ## Bit Manipulation
 |  |
 | ------- |
