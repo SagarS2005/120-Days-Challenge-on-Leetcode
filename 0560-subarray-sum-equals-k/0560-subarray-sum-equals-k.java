@@ -9,7 +9,8 @@ class Solution {
         for(int i=0; i<a.length; i++){ 
             int sum=0; int curr=0;
             for(int j=i; j<a.length; j++){
-                sum = i==0? prefix[j]: prefix[j] - prefix[i-1];
+                        // sum=sum+a[j];            // if we don't want to use prefix sum then simply calculate sum of every subarray while accessing there element
+                sum = i==0? prefix[j]: prefix[j] - prefix[i-1];        // Prefix sum 
                 if(sum==key){
                     n++;
                 }
