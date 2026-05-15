@@ -13,11 +13,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0169-majority-element) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0209-minimum-size-subarray-sum](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0042-trapping-rain-water](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0042-trapping-rain-water) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0042-trapping-rain-water](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0042-trapping-rain-water) |
 ## Hash Table
 |  |
 | ------- |
@@ -63,8 +65,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0042-trapping-rain-water](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0042-trapping-rain-water) |
 ## Sliding Window
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
