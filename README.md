@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0209-minimum-size-subarray-sum](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0042-trapping-rain-water](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0042-trapping-rain-water) |
+| [0001-two-sum](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0001-two-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0169-majority-element](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0169-majority-element) |
+| [0001-two-sum](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0001-two-sum) |
 ## Binary Search
 |  |
 | ------- |
