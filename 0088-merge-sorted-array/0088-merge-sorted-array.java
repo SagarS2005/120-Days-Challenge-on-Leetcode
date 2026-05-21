@@ -5,14 +5,6 @@ class Solution {
             a[i] = b[idx++];
         }
         
-       for(int i =1; i<a.length; i++){
-                int sortedArray=i-1;
-                int temp=a[i];
-                while (  sortedArray>=0 && a[sortedArray] >temp ) {
-                    a[sortedArray+1] =a[sortedArray];
-                    sortedArray--;
-                }
-                a[sortedArray+1] =temp;
-        }
+        Arrays.sort(a);
     }
 }
