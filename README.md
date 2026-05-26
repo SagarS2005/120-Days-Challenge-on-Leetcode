@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0344-reverse-string) |
 | [0125-valid-palindrome](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0125-valid-palindrome) |
+| [0680-valid-palindrome-ii](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0680-valid-palindrome-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -98,4 +99,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0344-reverse-string](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0344-reverse-string) |
 | [0125-valid-palindrome](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0125-valid-palindrome) |
+| [0680-valid-palindrome-ii](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0680-valid-palindrome-ii) |
+## Greedy
+|  |
+| ------- |
+| [0680-valid-palindrome-ii](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0680-valid-palindrome-ii) |
 <!---LeetCode Topics End-->
