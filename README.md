@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0344-reverse-string) |
 | [0125-valid-palindrome](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0125-valid-palindrome) |
 | [0680-valid-palindrome-ii](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0680-valid-palindrome-ii) |
+| [0005-longest-palindromic-substring](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0005-longest-palindromic-substring) |
 ## Hash Table
 |  |
 | ------- |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0042-trapping-rain-water](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0042-trapping-rain-water) |
+| [0005-longest-palindromic-substring](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0005-longest-palindromic-substring) |
 ## Sliding Window
 |  |
 | ------- |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0125-valid-palindrome) |
 | [0680-valid-palindrome-ii](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0796-rotate-string](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0796-rotate-string) |
+| [0005-longest-palindromic-substring](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0005-longest-palindromic-substring) |
 ## Greedy
 |  |
 | ------- |
