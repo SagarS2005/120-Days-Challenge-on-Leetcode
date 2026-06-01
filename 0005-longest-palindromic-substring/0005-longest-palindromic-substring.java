@@ -1,46 +1,34 @@
 class Solution {
-    public String longestPalindrome(String s) {
-        if (s.length() ==1) return s;
+    static String longestPalindrome(String s) {
+        if(s.length() ==1) return s;
         int max=1;
-        String result=s.substring(0,1);
+        String result = s.substring(0,1);
 
-        for(int i=0; i<s.length(); i++){      
-            for(int j=i+1; j<s.length(); j++){  
-                int length=0;
-                if(s.charAt(i) == s.charAt(j)){
-                    String sub = s.substring(i,j+1);
-                    length = resultSubstring(s.substring(i,j+1));
-                    if(length > max){
-                        max = length;
-                        result = sub;
-                    }
+        for(int i=0; i<s.length(); i++){
+            for(int j=i+1; j<s.length(); j++){
+                int length=j-i+1;
+                // boolean isPalindrome = isPalindrome(s,i,j);
+
+                if(length> max && s.charAt(i) == s.charAt(j) && isPalindrome(s, i, j)){
+                    max =length;
+                    result = s.substring(i,j+1);
                 }
-                
-                
             }
         }
-        
-        // System.out.println("Result is : " + result);
         return result;
+
     }
 
-    static int resultSubstring(String s){
-        int length=s.length();
-        int st=0;
-        int end=length-1;
-        
-        while(st<end){
-            char left=s.charAt(st);
-            char right =s.charAt(end);
-            if(left != right){
-                return 0;
+    static boolean isPalindrome(String s, int left, int right){
+        while(left<right){
+            if (s.charAt(left) != s.charAt(right)){
+                return false;
             }
             else{
-            
-                st++;
-                end--;
+                left++;
+                right--;
             }
         }
-        return length;
+        return true;
     }
 }
