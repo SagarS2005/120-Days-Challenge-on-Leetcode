@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0704-binary-search) |
+| [0014-longest-common-prefix](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0014-longest-common-prefix) |
 ## Two Pointers
 |  |
 | ------- |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0796-rotate-string](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0796-rotate-string) |
 | [0005-longest-palindromic-substring](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0014-longest-common-prefix](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0014-longest-common-prefix) |
 ## Greedy
 |  |
 | ------- |
@@ -114,4 +116,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0796-rotate-string) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
