@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0704-binary-search) |
 | [0014-longest-common-prefix](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0014-longest-common-prefix) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0169-majority-element](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0169-majority-element) |
 | [0001-two-sum](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0001-two-sum) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Binary Search
 |  |
 | ------- |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Stack
 |  |
 | ------- |
