@@ -1,40 +1,37 @@
 class Solution {
     public long maximumSubarraySum(int[] nums, int k) {
+Map <Integer, Integer> map = new HashMap<>();
+        long current_Sum=0;
 
-        Map<Integer, Integer> map = new HashMap<>();
-        long currentSum = 0;
-        long maxSum = 0;
-
-        for (int i = 0; i < k; i++) {
-            currentSum += nums[i];
-            map.put(nums[i], map.getOrDefault(nums[i], 0) + 1);
+        for(int i=0; i<k; i++){
+            current_Sum += nums[i];
+            map.put(nums[i],map.getOrDefault(nums[i], 0)+1);
         }
 
-        if (map.size() == k) {
-            maxSum = currentSum;
+        long max= 0;
+        if( map.size() == k){
+            max = current_Sum;
         }
 
-        
-        for (int i = k; i < nums.length; i++) {
+        for(int j=k; j<nums.length; j++){  
+            int removedElemtent = nums[j-k];
+            // System.out.println("Removed Element : " + removedElemtent);
 
-            currentSum += nums[i];
-            map.put(nums[i], map.getOrDefault(nums[i], 0) + 1);
-
-            
-            int outgoing = nums[i - k];
-            currentSum -= outgoing;
-
-            map.put(outgoing, map.get(outgoing) - 1);
-
-            if (map.get(outgoing) == 0) {
-                map.remove(outgoing);
+            map.put(removedElemtent,map.get(removedElemtent)-1); // if w1=  [2,3,2] , Map : {2:2, 3,1}   After reduce first element // window 2=[3,2] , Map: {3:1, 2:1}
+            // System.out.println("After removing  frequency first element : " + map);
+            if(map.get(removedElemtent) == 0){
+                map.remove(removedElemtent);
+                // System.out.println("After removing first element : " + map);
             }
 
-            if (map.size() == k) {
-                maxSum = Math.max(maxSum, currentSum);
+
+            map.put(nums[j],map.getOrDefault(nums[j], 0)+1);
+            current_Sum += nums[j];          
+            current_Sum -= nums[j-k];
+            if(map.size() == k){
+                max = Math.max(max, current_Sum)  ;
             }
         }
-
-        return maxSum;
+        return max;
     }
 }
