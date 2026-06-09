@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2653-sliding-subarray-beauty](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/2653-sliding-subarray-beauty) |
 | [3026-maximum-good-subarray-sum](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/3026-maximum-good-subarray-sum) |
+| [0485-max-consecutive-ones](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0485-max-consecutive-ones) |
 ## Two Pointers
 |  |
 | ------- |
