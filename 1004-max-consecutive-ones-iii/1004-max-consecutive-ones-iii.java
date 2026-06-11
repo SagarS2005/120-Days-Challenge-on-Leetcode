@@ -8,15 +8,13 @@ class Solution {
                 zeroCount++;
             }
 
-            while (zeroCount > k) {
+             if(zeroCount > k) {  
                 if (nums[left] == 0) {
                     zeroCount--;
                 }
                 left++;
-            }
-            max=Math.max(max,right-left+1);
-            
+            }           
         }
-        return max;
+        return nums.length-left;
     }
 }
