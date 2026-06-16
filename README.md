@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0125-valid-palindrome) |
 | [0680-valid-palindrome-ii](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0005-longest-palindromic-substring](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0345-reverse-vowels-of-a-string](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0796-rotate-string) |
 | [0005-longest-palindromic-substring](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0014-longest-common-prefix) |
+| [0345-reverse-vowels-of-a-string](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 ## Greedy
 |  |
 | ------- |
