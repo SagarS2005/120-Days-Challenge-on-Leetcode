@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0136-single-number](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0136-single-number) |
 | [0904-fruit-into-baskets](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0904-fruit-into-baskets) |
+| [0905-sort-array-by-parity](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0905-sort-array-by-parity) |
 ## Two Pointers
 |  |
 | ------- |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0005-longest-palindromic-substring](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0345-reverse-vowels-of-a-string](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0905-sort-array-by-parity](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0905-sort-array-by-parity) |
 ## Hash Table
 |  |
 | ------- |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0088-merge-sorted-array) |
+| [0905-sort-array-by-parity](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0905-sort-array-by-parity) |
 ## Math
 |  |
 | ------- |
