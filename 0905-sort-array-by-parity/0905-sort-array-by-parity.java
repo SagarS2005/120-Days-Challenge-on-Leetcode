@@ -3,17 +3,17 @@ class Solution {
 
         int[] result = new int[nums.length];
 
-        int e = 0;
-        int o = nums.length - 1;
+        int even = 0;
+        int odd = nums.length - 1;
 
         for(int i = 0; i < nums.length; i++){
 
             if(nums[i] % 2 == 0){
-                result[e] = nums[i];
-                e++;
+                result[even] = nums[i];
+                even++;
             }else{
-                result[o] = nums[i];
-                o--;
+                result[odd] = nums[i];
+                odd--;
             }
         }
 
