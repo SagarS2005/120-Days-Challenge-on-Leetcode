@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0905-sort-array-by-parity) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [0066-plus-one](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0066-plus-one) |
 ## Two Pointers
 |  |
 | ------- |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0069-sqrtx) |
 | [0013-roman-to-integer](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0066-plus-one) |
 ## Bit Manipulation
 |  |
 | ------- |
