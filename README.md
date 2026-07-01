@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [0066-plus-one](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0066-plus-one) |
 | [0239-sliding-window-maximum](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0239-sliding-window-maximum) |
+| [0992-subarrays-with-k-different-integers](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3026-maximum-good-subarray-sum](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/3026-maximum-good-subarray-sum) |
 | [0904-fruit-into-baskets](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0013-roman-to-integer](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0013-roman-to-integer) |
+| [0992-subarrays-with-k-different-integers](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 ## Binary Search
 |  |
 | ------- |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0169-majority-element) |
+| [0992-subarrays-with-k-different-integers](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -129,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0239-sliding-window-maximum](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0239-sliding-window-maximum) |
+| [0992-subarrays-with-k-different-integers](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 ## Stack
 |  |
 | ------- |
