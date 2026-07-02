@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0066-plus-one) |
 | [0239-sliding-window-maximum](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
+| [0724-find-pivot-index](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0724-find-pivot-index) |
 ## Two Pointers
 |  |
 | ------- |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3026-maximum-good-subarray-sum](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/3026-maximum-good-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [0713-subarray-product-less-than-k](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [0724-find-pivot-index](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0724-find-pivot-index) |
 ## Divide and Conquer
 |  |
 | ------- |
