@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [0724-find-pivot-index](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0724-find-pivot-index) |
+| [1314-matrix-block-sum](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/1314-matrix-block-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [0713-subarray-product-less-than-k](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0724-find-pivot-index) |
+| [1314-matrix-block-sum](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/1314-matrix-block-sum) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -178,4 +180,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0239-sliding-window-maximum) |
+## Matrix
+|  |
+| ------- |
+| [1314-matrix-block-sum](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/1314-matrix-block-sum) |
 <!---LeetCode Topics End-->
