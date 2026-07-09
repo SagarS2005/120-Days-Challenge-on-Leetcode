@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0724-find-pivot-index) |
 | [1314-matrix-block-sum](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/1314-matrix-block-sum) |
 | [0523-continuous-subarray-sum](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0523-continuous-subarray-sum) |
+| [0238-product-of-array-except-self](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0238-product-of-array-except-self) |
 ## Two Pointers
 |  |
 | ------- |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0724-find-pivot-index) |
 | [1314-matrix-block-sum](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/1314-matrix-block-sum) |
 | [0523-continuous-subarray-sum](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0523-continuous-subarray-sum) |
+| [0238-product-of-array-except-self](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0238-product-of-array-except-self) |
 ## Divide and Conquer
 |  |
 | ------- |
