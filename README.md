@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1314-matrix-block-sum](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/1314-matrix-block-sum) |
 | [0523-continuous-subarray-sum](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0053-maximum-subarray](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0053-maximum-subarray) |
 ## Two Pointers
 |  |
 | ------- |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0191-number-of-1-bits) |
+| [0053-maximum-subarray](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0053-maximum-subarray) |
 ## Counting
 |  |
 | ------- |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0042-trapping-rain-water](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0042-trapping-rain-water) |
 | [0005-longest-palindromic-substring](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0053-maximum-subarray](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0053-maximum-subarray) |
 ## Sliding Window
 |  |
 | ------- |
