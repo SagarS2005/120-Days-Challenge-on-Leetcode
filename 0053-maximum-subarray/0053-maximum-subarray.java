@@ -9,6 +9,7 @@ class Solution {
             if( sum < 0){
                 sum = 0;
             }
+            // Kadane's Algorithm => if sum < 0 then  set sum = 0
         }
         return maxSum;
     }
