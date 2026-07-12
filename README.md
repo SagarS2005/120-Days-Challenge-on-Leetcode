@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0053-maximum-subarray](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0053-maximum-subarray) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
 | ------- |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0345-reverse-vowels-of-a-string](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0905-sort-array-by-parity](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0905-sort-array-by-parity) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
 | ------- |
@@ -196,4 +198,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1314-matrix-block-sum](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/1314-matrix-block-sum) |
+## Simulation
+|  |
+| ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
