@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0066-plus-one) |
 | [0523-continuous-subarray-sum](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0523-continuous-subarray-sum) |
+| [2427-number-of-common-factors](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/2427-number-of-common-factors) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -209,4 +210,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+## Enumeration
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/2427-number-of-common-factors) |
+## Number Theory
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/2427-number-of-common-factors) |
 <!---LeetCode Topics End-->
