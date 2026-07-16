@@ -17,13 +17,13 @@ class Solution {
             totalSum += nums[i];
         }
 
-        int normalSum = maxSum;
+        
         if(minSum == totalSum){
-            return normalSum;
+            return maxSum;
         }
         
         int circularSum = totalSum - minSum;
 
-        return Math.max(normalSum,circularSum);
+        return Math.max(maxSum,circularSum);
     }
 }
