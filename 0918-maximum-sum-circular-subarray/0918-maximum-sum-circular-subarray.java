@@ -18,12 +18,8 @@ class Solution {
         }
 
         
-        if(minSum == totalSum){
-            return maxSum;
-        }
         
-        int circularSum = totalSum - minSum;
 
-        return Math.max(maxSum,circularSum);
+        return maxSum < 0 ? maxSum :Math.max(maxSum, totalSum - minSum);
     }
 }
