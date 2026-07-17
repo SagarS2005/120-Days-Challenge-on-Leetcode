@@ -1,33 +1,32 @@
 class Solution {
-    public int trap(int[] a) {
-        int leftboundary[]=new int[a.length];
-        int rightboundary[]=new int[a.length];
+    public int trap(int[] height) {
+        int leftMax = 0 ;
+        int rightMax = 0;
 
-        int leftmaxBoundary=0;
-        int rightMaxBoundary= 0;
-        int j=a.length;
-        for(int i=0; i<a.length; i++){
-            leftmaxBoundary=Math.max(leftmaxBoundary, a[i]);
-            leftboundary[i]=leftmaxBoundary;
-            System.out.print(leftboundary[i] + " ");
-        }
-        System.out.println();
-        for(int i=a.length-1; i>=0; i--){
-            rightMaxBoundary=Math.max(rightMaxBoundary, a[i]);
-            rightboundary[i]=rightMaxBoundary;
-            // System.out.println(i);
-            System.out.print(rightboundary[i] +" ");
-        }
-        System.out.println();
-        int i=0;
-        int Total_Area=0;
-        while (i<a.length) {
-            int waterLevel=Math.min(leftboundary[i],rightboundary[i]);
-            int  area=waterLevel-a[i];
-            Total_Area += area;
+        int left = 0;
+        int right = height.length-1;
+        int totalWater = 0;
+
+        while (left <= right){
             
-            i++;
+            if (height[left] < height[right]){
+                
+                if(leftMax > height[left]){
+                    totalWater += leftMax - height[left];
+                }
+                else{
+                    leftMax = height[left];
+                }
+                left++;
+            }
+            else{
+                if( rightMax > height[right]){
+                    totalWater += rightMax - height[right];
+                }
+                else rightMax = height[right];
+                right--;
+            }
         }
-        return Total_Area;
+        return totalWater;
     }
 }
