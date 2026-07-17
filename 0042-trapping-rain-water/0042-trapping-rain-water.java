@@ -8,9 +8,10 @@ class Solution {
         int totalWater = 0;
 
         while (left <= right){
-            
+            // Finding Boundary
             if (height[left] < height[right]){
                 
+                // if leftBoundary is smaller than find area from leftBounday
                 if(leftMax > height[left]){
                     totalWater += leftMax - height[left];
                 }
@@ -19,7 +20,7 @@ class Solution {
                 }
                 left++;
             }
-            else{
+            else{   // Right Boundary is smaller
                 if( rightMax > height[right]){
                     totalWater += rightMax - height[right];
                 }
