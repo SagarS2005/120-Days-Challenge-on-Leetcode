@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [0152-maximum-product-subarray](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0918-maximum-sum-circular-subarray](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
+| [2965-find-missing-and-repeated-values](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
 | ------- |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [0523-continuous-subarray-sum](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
+| [2965-find-missing-and-repeated-values](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Binary Search
 |  |
 | ------- |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0066-plus-one) |
 | [0523-continuous-subarray-sum](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [2427-number-of-common-factors](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/2427-number-of-common-factors) |
+| [2965-find-missing-and-repeated-values](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -206,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1314-matrix-block-sum](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/1314-matrix-block-sum) |
+| [2965-find-missing-and-repeated-values](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Simulation
 |  |
 | ------- |
