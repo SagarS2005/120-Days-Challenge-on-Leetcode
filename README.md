@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0918-maximum-sum-circular-subarray](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [2965-find-missing-and-repeated-values](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/2965-find-missing-and-repeated-values) |
+| [1929-concatenation-of-array](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/1929-concatenation-of-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [1929-concatenation-of-array](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/1929-concatenation-of-array) |
 ## Enumeration
 |  |
 | ------- |
