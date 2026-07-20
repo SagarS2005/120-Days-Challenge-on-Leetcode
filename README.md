@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [2965-find-missing-and-repeated-values](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [1929-concatenation-of-array](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/1929-concatenation-of-array) |
+| [1480-running-sum-of-1d-array](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/1480-running-sum-of-1d-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1480-running-sum-of-1d-array](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/1480-running-sum-of-1d-array) |
 ## Divide and Conquer
 |  |
 | ------- |
