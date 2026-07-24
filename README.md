@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [2965-find-missing-and-repeated-values](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/2965-find-missing-and-repeated-values) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0239-sliding-window-maximum](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [1108-defanging-an-ip-address](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/1108-defanging-an-ip-address) |
 | [0647-palindromic-substrings](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0647-palindromic-substrings) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Greedy
 |  |
 | ------- |
