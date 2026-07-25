@@ -1,37 +1,38 @@
 class Solution {
     public List<Integer> findAnagrams(String s, String p) {
-        List <Integer> res = new ArrayList<>();
-        Map <Character, Integer> pMap = new HashMap<>();
-        Map <Character, Integer> sMap = new HashMap<>();
-        
+        List<Integer> res = new ArrayList<>();
+
+        Map<Character, Integer> map = new HashMap<>();
         for(char ch : p.toCharArray()){
-            pMap.put(ch,pMap.getOrDefault(ch, 0) +1);
+            map.put(ch, map.getOrDefault(ch, 0)+1);
         }
-
-        int left = 0; int count = p.length();
-
+     
+        int count = p.length();   int left = 0; 
         for(int right = 0; right < s.length(); right++){
             char ch = s.charAt(right);
 
-            sMap.put(ch, sMap.getOrDefault(ch,0)+1);
-
-            if(pMap.containsKey(ch) && sMap.get(ch) <= pMap.get(ch)){
+            int freq = map.getOrDefault(ch, 0);
+            if( freq > 0){  // if freq of ch > 0 in map 
                 count--;
             }
+            map.put(ch, freq-1); // if freq < 0 means window required that character
 
-            if ( right - left + 1 > p.length()){
+            if(right + left + 1 > p.length()){
                 char leftChar = s.charAt(left);
-                if(pMap.containsKey(leftChar) && sMap.get(leftChar) <= pMap.get(leftChar)){
-                    count++;
+                
+                int leftFreq = map.getOrDefault(leftChar, 0);
+                if(leftFreq >= 0){  //  if discarding character's frequency is > 0 then increase count ; becuase we are removing that character from current window
+                    count++;       
                 }
-                sMap.put(leftChar, sMap.get(leftChar) - 1);
-                left++;
+                map.put(leftChar, leftFreq+1);   // if frequency is positive (or == 0) means we  need that character for window
+                left++; // removing leftCharacter 
             }
 
-            if (count == 0){
+            if(count == 0){
                 res.add(left);
             }
         }
+
         return res;
     }
 }
