@@ -12,7 +12,10 @@ class Solution {
             char ch = s2.charAt(right);
             
             if(map.containsKey(ch)){
-                if(map.get(ch) > 0){
+                /* if freq is > 0 in map means, that character is not required for that substring
+                suppose s1 = 'ab' and current substring is = 'aab' then now freq of a is 2 and (-1 in map) means it is not required for 'ab' and that why we don't increase our count value
+                */
+                if(map.get(ch) > 0){       
                     count --;
                 }
                 map.put(ch, map.get(ch) - 1);
