@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0905-sort-array-by-parity) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [0647-palindromic-substrings](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0647-palindromic-substrings) |
+| [0567-permutation-in-string](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0567-permutation-in-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2965-find-missing-and-repeated-values](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0567-permutation-in-string](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0567-permutation-in-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0567-permutation-in-string](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0567-permutation-in-string) |
 ## Stack
 |  |
 | ------- |
@@ -194,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0647-palindromic-substrings) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0567-permutation-in-string](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0567-permutation-in-string) |
 ## Greedy
 |  |
 | ------- |
