@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [0035-search-insert-position](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0035-search-insert-position) |
 | [0033-search-in-rotated-sorted-array](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0069-sqrtx) |
 | [0035-search-insert-position](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0035-search-insert-position) |
 | [0033-search-in-rotated-sorted-array](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 ## Sorting
 |  |
 | ------- |
