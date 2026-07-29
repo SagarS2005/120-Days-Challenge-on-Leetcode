@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [0035-search-insert-position](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0035-search-insert-position) |
+| [0033-search-in-rotated-sorted-array](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0069-sqrtx](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0069-sqrtx) |
 | [0035-search-insert-position](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0035-search-insert-position) |
+| [0033-search-in-rotated-sorted-array](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 ## Sorting
 |  |
 | ------- |
