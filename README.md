@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0035-search-insert-position) |
 | [0033-search-in-rotated-sorted-array](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0217-contains-duplicate](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0217-contains-duplicate) |
 ## Two Pointers
 |  |
 | ------- |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0567-permutation-in-string](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0567-permutation-in-string) |
+| [0217-contains-duplicate](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0217-contains-duplicate) |
 ## Binary Search
 |  |
 | ------- |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0088-merge-sorted-array) |
 | [0905-sort-array-by-parity](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0905-sort-array-by-parity) |
+| [0217-contains-duplicate](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0217-contains-duplicate) |
 ## Math
 |  |
 | ------- |
