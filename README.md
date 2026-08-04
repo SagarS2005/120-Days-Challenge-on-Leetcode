@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0162-find-peak-element](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0162-find-peak-element) |
+| [0875-koko-eating-bananas](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0875-koko-eating-bananas) |
 ## Two Pointers
 |  |
 | ------- |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0162-find-peak-element](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0162-find-peak-element) |
+| [0875-koko-eating-bananas](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0875-koko-eating-bananas) |
 ## Sorting
 |  |
 | ------- |
