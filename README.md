@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0162-find-peak-element](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0162-find-peak-element) |
 | [0875-koko-eating-bananas](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0875-koko-eating-bananas) |
+| [0374-guess-number-higher-or-lower](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 ## Sorting
 |  |
 | ------- |
@@ -265,4 +266,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2427-number-of-common-factors](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/2427-number-of-common-factors) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
