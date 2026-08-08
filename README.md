@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0162-find-peak-element](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0162-find-peak-element) |
 | [0875-koko-eating-bananas](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0875-koko-eating-bananas) |
+| [1528-shuffle-string](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/1528-shuffle-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0567-permutation-in-string](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0567-permutation-in-string) |
+| [1528-shuffle-string](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/1528-shuffle-string) |
 ## Greedy
 |  |
 | ------- |
