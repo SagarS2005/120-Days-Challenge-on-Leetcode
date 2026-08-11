@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0567-permutation-in-string](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0567-permutation-in-string) |
 | [0217-contains-duplicate](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0217-contains-duplicate) |
+| [0387-first-unique-character-in-a-string](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0169-majority-element) |
 | [0992-subarrays-with-k-different-integers](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
+| [0387-first-unique-character-in-a-string](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0567-permutation-in-string) |
 | [1528-shuffle-string](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/1528-shuffle-string) |
 | [0058-length-of-last-word](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0058-length-of-last-word) |
+| [0387-first-unique-character-in-a-string](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Greedy
 |  |
 | ------- |
@@ -239,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0918-maximum-sum-circular-subarray](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
+| [0387-first-unique-character-in-a-string](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
