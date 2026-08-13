@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1528-shuffle-string](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/1528-shuffle-string) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/1870-minimum-speed-to-arrive-on-time) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Two Pointers
 |  |
 | ------- |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0374-guess-number-higher-or-lower](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/1870-minimum-speed-to-arrive-on-time) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Sorting
 |  |
 | ------- |
