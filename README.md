@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-shuffle-string](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/1528-shuffle-string) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1470-shuffle-the-array](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/1470-shuffle-the-array) |
 ## Two Pointers
 |  |
 | ------- |
