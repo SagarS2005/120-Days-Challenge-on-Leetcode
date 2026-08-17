@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1470-shuffle-the-array](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/1470-shuffle-the-array) |
+| [0496-next-greater-element-i](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0496-next-greater-element-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0217-contains-duplicate) |
 | [0387-first-unique-character-in-a-string](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0205-isomorphic-strings) |
+| [0496-next-greater-element-i](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0496-next-greater-element-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -207,10 +209,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0496-next-greater-element-i) |
 ## String
 |  |
 | ------- |
