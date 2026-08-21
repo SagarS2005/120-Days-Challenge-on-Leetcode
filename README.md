@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/1470-shuffle-the-array) |
 | [0496-next-greater-element-i](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0739-daily-temperatures) |
 ## Two Pointers
 |  |
 | ------- |
@@ -213,12 +214,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0739-daily-temperatures) |
 ## String
 |  |
 | ------- |
