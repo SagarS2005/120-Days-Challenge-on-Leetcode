@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0739-daily-temperatures) |
+| [0735-asteroid-collision](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0735-asteroid-collision) |
 ## Two Pointers
 |  |
 | ------- |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0901-online-stock-span) |
+| [0735-asteroid-collision](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0735-asteroid-collision) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [1929-concatenation-of-array](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [0735-asteroid-collision](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0735-asteroid-collision) |
 ## Enumeration
 |  |
 | ------- |
