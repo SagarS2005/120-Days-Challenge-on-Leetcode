@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0901-online-stock-span](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0901-online-stock-span) |
 | [0735-asteroid-collision](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0735-asteroid-collision) |
 | [0084-largest-rectangle-in-histogram](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0155-min-stack](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0155-min-stack) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0901-online-stock-span) |
+| [0155-min-stack](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0155-min-stack) |
 ## Data Stream
 |  |
 | ------- |
