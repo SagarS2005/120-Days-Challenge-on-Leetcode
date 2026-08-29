@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [2427-number-of-common-factors](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/2427-number-of-common-factors) |
 | [2965-find-missing-and-repeated-values](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/2965-find-missing-and-repeated-values) |
+| [0227-basic-calculator-ii](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0227-basic-calculator-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0735-asteroid-collision) |
 | [0084-largest-rectangle-in-histogram](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0155-min-stack) |
+| [0227-basic-calculator-ii](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0227-basic-calculator-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0058-length-of-last-word) |
 | [0387-first-unique-character-in-a-string](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0205-isomorphic-strings) |
+| [0227-basic-calculator-ii](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0227-basic-calculator-ii) |
 ## Greedy
 |  |
 | ------- |
