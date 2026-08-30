@@ -23,7 +23,8 @@ class Solution {
                 int a = nums.get(i);
                 int b = nums.get(i+1);
                 int val = (operators.get(i) == '*') ? a * b : a / b;
-
+                // int val = (operators.get(i) == '*') ? nums.get(i) * nums.get(i+1):nums.get(i) / nums.get(i+1);
+            
                 nums.set(i, val);
                 nums.remove(i+1);
                 operators.remove(i);
