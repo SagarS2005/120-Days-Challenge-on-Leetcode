@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0739-daily-temperatures) |
 | [0735-asteroid-collision](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0735-asteroid-collision) |
 | [0084-largest-rectangle-in-histogram](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Two Pointers
 |  |
 | ------- |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2427-number-of-common-factors](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/2427-number-of-common-factors) |
 | [2965-find-missing-and-repeated-values](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [0227-basic-calculator-ii](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0227-basic-calculator-ii) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0155-min-stack) |
 | [0227-basic-calculator-ii](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0227-basic-calculator-ii) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Monotonic Stack
 |  |
 | ------- |
