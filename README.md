@@ -226,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0155-min-stack) |
 | [0227-basic-calculator-ii](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0020-valid-parentheses](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0020-valid-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0205-isomorphic-strings) |
 | [0227-basic-calculator-ii](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0227-basic-calculator-ii) |
+| [0020-valid-parentheses](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0020-valid-parentheses) |
 ## Greedy
 |  |
 | ------- |
@@ -323,4 +325,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
