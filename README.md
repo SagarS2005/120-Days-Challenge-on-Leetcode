@@ -227,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0020-valid-parentheses](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0020-valid-parentheses) |
+| [0394-decode-string](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0394-decode-string) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0205-isomorphic-strings) |
 | [0227-basic-calculator-ii](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0020-valid-parentheses](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0020-valid-parentheses) |
+| [0394-decode-string](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0394-decode-string) |
 ## Greedy
 |  |
 | ------- |
@@ -329,4 +331,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0020-valid-parentheses) |
+## Recursion
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
