@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0735-asteroid-collision) |
 | [0084-largest-rectangle-in-histogram](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 ## Two Pointers
 |  |
 | ------- |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 ## Sorting
 |  |
 | ------- |
