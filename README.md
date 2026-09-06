@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [0647-palindromic-substrings](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0647-palindromic-substrings) |
 | [0567-permutation-in-string](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0567-permutation-in-string) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 ## Hash Table
 |  |
 | ------- |
@@ -337,4 +338,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0394-decode-string) |
+## Linked List
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 <!---LeetCode Topics End-->
