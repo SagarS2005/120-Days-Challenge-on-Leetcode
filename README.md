@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0647-palindromic-substrings) |
 | [0567-permutation-in-string](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0567-permutation-in-string) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0844-backspace-string-compare](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0844-backspace-string-compare) |
 ## Hash Table
 |  |
 | ------- |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0020-valid-parentheses](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0020-valid-parentheses) |
 | [0394-decode-string](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0394-decode-string) |
+| [0844-backspace-string-compare](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0844-backspace-string-compare) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0020-valid-parentheses](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0020-valid-parentheses) |
 | [0394-decode-string](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0394-decode-string) |
+| [0844-backspace-string-compare](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0844-backspace-string-compare) |
 ## Greedy
 |  |
 | ------- |
@@ -305,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [0735-asteroid-collision](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0735-asteroid-collision) |
+| [0844-backspace-string-compare](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0844-backspace-string-compare) |
 ## Enumeration
 |  |
 | ------- |
