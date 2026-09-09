@@ -18,7 +18,6 @@ class Solution {
             res.insert(0, stack.pop());
         }
 
-        String res1 = res.toString();
-        return res1;
+        return res.toString();
     }
 }
