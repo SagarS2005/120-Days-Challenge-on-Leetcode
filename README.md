@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2965-find-missing-and-repeated-values](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [0227-basic-calculator-ii](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0007-reverse-integer](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0007-reverse-integer) |
 ## Bit Manipulation
 |  |
 | ------- |
