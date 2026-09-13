@@ -238,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [0225-implement-stack-using-queues](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0316-remove-duplicate-letters](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0316-remove-duplicate-letters) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [0316-remove-duplicate-letters](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0316-remove-duplicate-letters) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Greedy
 |  |
 | ------- |
@@ -321,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [0735-asteroid-collision](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0844-backspace-string-compare) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Enumeration
 |  |
 | ------- |
