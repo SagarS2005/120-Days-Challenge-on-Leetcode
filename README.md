@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0007-reverse-integer](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0007-reverse-integer) |
+| [0050-powx-n](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0050-powx-n) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -359,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0394-decode-string) |
+| [0050-powx-n](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0050-powx-n) |
 ## Linked List
 |  |
 | ------- |
