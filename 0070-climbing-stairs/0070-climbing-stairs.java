@@ -8,6 +8,12 @@ class Solution {
         // return climbStairs(n-1) + climbStairs(n-2);
 
 
+        /*  climbStairs(n-1) : to reach nth step what can the last step
+            climbStairs(n-2) : to reach nth step what can the last step will be n-2
+        */
+
+
+        
         // Dynamic Programming
 
         if(n <=2) return n;
