@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0050-powx-n) |
 | [0509-fibonacci-number](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0509-fibonacci-number) |
 | [0070-climbing-stairs](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0070-climbing-stairs) |
+| [0062-unique-paths](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0062-unique-paths) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0647-palindromic-substrings) |
 | [0509-fibonacci-number](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0509-fibonacci-number) |
 | [0070-climbing-stairs](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0070-climbing-stairs) |
+| [0062-unique-paths](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0062-unique-paths) |
 ## Sliding Window
 |  |
 | ------- |
@@ -384,4 +386,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0509-fibonacci-number](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0509-fibonacci-number) |
 | [0070-climbing-stairs](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0070-climbing-stairs) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
