@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [0056-merge-intervals](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0056-merge-intervals) |
+| [0198-house-robber](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0198-house-robber) |
 ## Two Pointers
 |  |
 | ------- |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0509-fibonacci-number) |
 | [0070-climbing-stairs](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0070-climbing-stairs) |
 | [0062-unique-paths](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0062-unique-paths) |
+| [0198-house-robber](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0198-house-robber) |
 ## Sliding Window
 |  |
 | ------- |
