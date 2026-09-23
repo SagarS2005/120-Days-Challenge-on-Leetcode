@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [0056-merge-intervals](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0056-merge-intervals) |
 | [0198-house-robber](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0198-house-robber) |
+| [0004-median-of-two-sorted-arrays](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 ## Two Pointers
 |  |
 | ------- |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [0004-median-of-two-sorted-arrays](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 ## Sorting
 |  |
 | ------- |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0053-maximum-subarray) |
 | [0918-maximum-sum-circular-subarray](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0240-search-a-2d-matrix-ii](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0004-median-of-two-sorted-arrays](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 ## Counting
 |  |
 | ------- |
