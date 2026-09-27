@@ -359,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0901-online-stock-span](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0901-online-stock-span) |
 | [0155-min-stack](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0707-design-linked-list](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0707-design-linked-list) |
 ## Data Stream
 |  |
 | ------- |
@@ -382,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0707-design-linked-list](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0707-design-linked-list) |
 ## Quicksort
 |  |
 | ------- |
