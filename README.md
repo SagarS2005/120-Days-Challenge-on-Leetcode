@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0056-merge-intervals) |
 | [0198-house-robber](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0198-house-robber) |
 | [0004-median-of-two-sorted-arrays](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [1441-build-an-array-with-stack-operations](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 ## Two Pointers
 |  |
 | ------- |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1441-build-an-array-with-stack-operations](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -341,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0844-backspace-string-compare) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
+| [1441-build-an-array-with-stack-operations](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 ## Enumeration
 |  |
 | ------- |
