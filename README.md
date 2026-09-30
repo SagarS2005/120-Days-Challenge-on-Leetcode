@@ -387,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0707-design-linked-list](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0707-design-linked-list) |
+| [0328-odd-even-linked-list](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0328-odd-even-linked-list) |
 ## Quicksort
 |  |
 | ------- |
