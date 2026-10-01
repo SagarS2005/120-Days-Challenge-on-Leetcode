@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0567-permutation-in-string) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0844-backspace-string-compare](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0844-backspace-string-compare) |
+| [0160-intersection-of-two-linked-lists](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 ## Hash Table
 |  |
 | ------- |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0205-isomorphic-strings) |
 | [0496-next-greater-element-i](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0496-next-greater-element-i) |
+| [0160-intersection-of-two-linked-lists](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 ## Binary Search
 |  |
 | ------- |
@@ -388,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0707-design-linked-list](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0707-design-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0328-odd-even-linked-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 ## Quicksort
 |  |
 | ------- |
