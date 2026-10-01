@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0844-backspace-string-compare) |
 | [0160-intersection-of-two-linked-lists](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0876-middle-of-the-linked-list](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0876-middle-of-the-linked-list) |
+| [0141-linked-list-cycle](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0141-linked-list-cycle) |
 ## Hash Table
 |  |
 | ------- |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0205-isomorphic-strings) |
 | [0496-next-greater-element-i](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0496-next-greater-element-i) |
 | [0160-intersection-of-two-linked-lists](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0141-linked-list-cycle](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0141-linked-list-cycle) |
 ## Binary Search
 |  |
 | ------- |
@@ -393,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0328-odd-even-linked-list](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0328-odd-even-linked-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0876-middle-of-the-linked-list](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0876-middle-of-the-linked-list) |
+| [0141-linked-list-cycle](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0141-linked-list-cycle) |
 ## Quicksort
 |  |
 | ------- |
@@ -406,4 +409,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0062-unique-paths) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
