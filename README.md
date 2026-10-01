@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0844-backspace-string-compare](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0844-backspace-string-compare) |
 | [0160-intersection-of-two-linked-lists](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0876-middle-of-the-linked-list](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Hash Table
 |  |
 | ------- |
@@ -391,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0707-design-linked-list](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0707-design-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0328-odd-even-linked-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0876-middle-of-the-linked-list](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Quicksort
 |  |
 | ------- |
