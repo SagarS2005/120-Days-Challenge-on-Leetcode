@@ -1,32 +1,28 @@
 class Solution {
     public int trap(int[] height) {
-        int leftMax = 0 ;
-        int rightMax = 0;
-
-        int left = 0;
-        int right = height.length-1;
+        int leftB = 0, rightB= 0;
+        int left = 0, right = height.length-1;
         int totalWater = 0;
-
-        while (left <= right){
-            // Finding Boundary
-            if (height[left] < height[right]){
-                
-                // if leftBoundary is smaller than find area from leftBounday
-                if(leftMax > height[left]){
-                    totalWater += leftMax - height[left];
+        while(left < right){
+            if(height[left] < height[right]){
+                if(leftB > height[left]){
+                    totalWater += leftB - height[left];
                 }
                 else{
-                    leftMax = height[left];
+                    leftB = height[left];
                 }
                 left++;
             }
-            else{   // Right Boundary is smaller
-                if( rightMax > height[right]){
-                    totalWater += rightMax - height[right];
+            else{
+                if(rightB > height[right]){
+                    totalWater += rightB - height[right];
                 }
-                else rightMax = height[right];
+                else{
+                    rightB = height[right];
+                }
                 right--;
             }
+            
         }
         return totalWater;
     }
