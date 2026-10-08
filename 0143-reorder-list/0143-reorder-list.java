@@ -28,7 +28,7 @@ class Solution {
                 leftNode=nextLeft;
                 rightNode=nextRight;
             }
-        head = leftNode;
+        // head = leftNode.next;
     }
 
     private ListNode findMid(ListNode head){
