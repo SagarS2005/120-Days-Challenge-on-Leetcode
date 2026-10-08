@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0141-linked-list-cycle](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0148-sort-list) |
 ## Hash Table
 |  |
 | ------- |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0217-contains-duplicate](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0217-contains-duplicate) |
 | [0056-merge-intervals](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0056-merge-intervals) |
+| [0148-sort-list](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0148-sort-list) |
 ## Math
 |  |
 | ------- |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0004-median-of-two-sorted-arrays](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0148-sort-list) |
 ## Counting
 |  |
 | ------- |
@@ -407,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0023-merge-k-sorted-lists](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0148-sort-list) |
 ## Quicksort
 |  |
 | ------- |
@@ -429,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0148-sort-list) |
 ## Tournament Sort
 |  |
 | ------- |
