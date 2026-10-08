@@ -28,21 +28,19 @@ class Solution {
             if(left.val <= right.val){
                 temp.next = left;
                 left = left.next;
-                temp = temp.next;
             }
             else{
                 temp.next = right;
                 right = right.next;
-                temp = temp.next;
             }
+
+            temp = temp.next;
         }
         if(left != null){
             temp.next = left;
-            temp = temp.next;
         }
         else{
             temp.next = right;
-            temp = temp.next;
         }
         return mergedList.next;
     }
