@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0148-sort-list) |
+| [0143-reorder-list](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0143-reorder-list) |
 ## Hash Table
 |  |
 | ------- |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1441-build-an-array-with-stack-operations](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
+| [0143-reorder-list](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0143-reorder-list) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -396,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0509-fibonacci-number) |
 | [0206-reverse-linked-list](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0206-reverse-linked-list) |
 | [0021-merge-two-sorted-lists](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0143-reorder-list](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0143-reorder-list) |
 ## Linked List
 |  |
 | ------- |
@@ -411,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0023-merge-k-sorted-lists](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0148-sort-list) |
+| [0143-reorder-list](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0143-reorder-list) |
 ## Quicksort
 |  |
 | ------- |
