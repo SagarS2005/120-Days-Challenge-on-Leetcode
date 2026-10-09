@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0509-fibonacci-number) |
 | [0070-climbing-stairs](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0070-climbing-stairs) |
 | [0062-unique-paths](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0062-unique-paths) |
+| [0002-add-two-numbers](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0002-add-two-numbers) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -399,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0206-reverse-linked-list) |
 | [0021-merge-two-sorted-lists](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0143-reorder-list) |
+| [0002-add-two-numbers](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0002-add-two-numbers) |
 ## Linked List
 |  |
 | ------- |
@@ -415,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0148-sort-list) |
 | [0143-reorder-list](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0143-reorder-list) |
+| [0002-add-two-numbers](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0002-add-two-numbers) |
 ## Quicksort
 |  |
 | ------- |
