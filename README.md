@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0070-climbing-stairs) |
 | [0062-unique-paths](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0062-unique-paths) |
 | [0002-add-two-numbers](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0002-add-two-numbers) |
+| [0445-add-two-numbers-ii](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0445-add-two-numbers-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1441-build-an-array-with-stack-operations](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [0143-reorder-list](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0143-reorder-list) |
+| [0445-add-two-numbers-ii](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0445-add-two-numbers-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -418,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0148-sort-list) |
 | [0143-reorder-list](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0143-reorder-list) |
 | [0002-add-two-numbers](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0002-add-two-numbers) |
+| [0445-add-two-numbers-ii](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0445-add-two-numbers-ii) |
 ## Quicksort
 |  |
 | ------- |
