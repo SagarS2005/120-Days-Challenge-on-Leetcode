@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0198-house-robber) |
 | [0004-median-of-two-sorted-arrays](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [1441-build-an-array-with-stack-operations](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
+| [1019-next-greater-node-in-linked-list](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1441-build-an-array-with-stack-operations](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [0143-reorder-list](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0143-reorder-list) |
 | [0445-add-two-numbers-ii](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0445-add-two-numbers-ii) |
+| [1019-next-greater-node-in-linked-list](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0316-remove-duplicate-letters](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1019-next-greater-node-in-linked-list](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 ## String
 |  |
 | ------- |
@@ -421,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0143-reorder-list) |
 | [0002-add-two-numbers](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0002-add-two-numbers) |
 | [0445-add-two-numbers-ii](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0445-add-two-numbers-ii) |
+| [1019-next-greater-node-in-linked-list](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 ## Quicksort
 |  |
 | ------- |
