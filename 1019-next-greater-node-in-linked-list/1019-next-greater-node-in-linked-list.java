@@ -16,7 +16,7 @@ class Solution {
         }
 
         int[] res = new int[A.size()];
-        Stack <Integer> stack = new Stack<>();
+        Deque <Integer> stack = new ArrayDeque<>();
         for(int i = 0; i< A.size(); i++){
             while(!stack.isEmpty() && A.get(stack.peek()) < A.get(i) ){
                 res[stack.pop()] = A.get(i);
