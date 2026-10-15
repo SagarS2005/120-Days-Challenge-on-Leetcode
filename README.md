@@ -281,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0143-reorder-list) |
 | [0445-add-two-numbers-ii](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [1019-next-greater-node-in-linked-list](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
+| [0094-binary-tree-inorder-traversal](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -472,4 +473,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
