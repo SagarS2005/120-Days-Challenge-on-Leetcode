@@ -40,6 +40,7 @@
 
 class Solution {
     public boolean isSameTree(TreeNode p, TreeNode q) {
+        
         // Base case: if both trees are null, they are identical
         if (p == null && q == null) {
             return true;
@@ -48,7 +49,12 @@ class Solution {
         if (p == null || q == null || p.val != q.val) {
             return false;
         }
+
         // Recursively check if the left and right subtrees are identical
-        return isSameTree(p.left, q.left) && isSameTree(p.right, q.right);
+        // return isSameTree(p.left, q.left) &&isSameTree(p.right, q.right) ;
+
+        boolean left = isSameTree(p.left, q.left);
+        boolean right = isSameTree(p.right, q.right);
+        return left && right;
     }
 }
