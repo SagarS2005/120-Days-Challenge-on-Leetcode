@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1441-build-an-array-with-stack-operations](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1019-next-greater-node-in-linked-list](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [0347-top-k-frequent-elements](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0303-range-sum-query-immutable](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0303-range-sum-query-immutable) |
 ## Two Pointers
 |  |
 | ------- |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1480-running-sum-of-1d-array](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [0303-range-sum-query-immutable](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0303-range-sum-query-immutable) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -393,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0707-design-linked-list](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0707-design-linked-list) |
+| [0303-range-sum-query-immutable](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0303-range-sum-query-immutable) |
 ## Data Stream
 |  |
 | ------- |
