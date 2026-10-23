@@ -16,8 +16,6 @@
 class Solution {
 
     public boolean isBalanced(TreeNode root) {
-        if(root == null) return true;
-
         return height(root) != -1;
     }
 
@@ -30,11 +28,11 @@ class Solution {
         int lh = height(root.left);
         int rh = height(root.right);
 
-        if(lh == -1 || rh == -1){
+        if(lh == -1 || rh == -1){   
             return -1;
         }
 
-        if(Math.abs(lh - rh) > 1){
+        if(Math.abs(lh - rh) > 1){  //  if root is not binary tree then return -1 to indicate it is not binary tree
             return -1;
         }
 
