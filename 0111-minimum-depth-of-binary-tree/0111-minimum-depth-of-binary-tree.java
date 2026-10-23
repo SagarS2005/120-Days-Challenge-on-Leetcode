@@ -15,15 +15,30 @@
  */
 class Solution {
     public int minDepth(TreeNode root) {
-        if(root == null){
+        if (root == null)
             return 0;
+
+        LinkedList<TreeNode> q = new LinkedList<>();
+        q.offer(root);
+
+        int depth = 1;
+
+        while (!q.isEmpty()) {
+            int levelElem = q.size();
+            for (int i = 0; i < levelElem; i++) {
+                TreeNode current = q.poll();
+                if (current.left == null && current.right == null)
+                    return depth;
+
+                if (current.left != null)
+                    q.offer(current.left);
+
+                if (current.right != null)
+                    q.offer(current.right);
+            }
+            depth++;
         }
 
-        int ld = minDepth(root.left);
-        int rd = minDepth(root.right);
-        if(ld == 0 || rd == 0){
-            return ld + rd + 1;
-        }
-        return 1+ Math.min(ld, rd);
+        return depth;
     }
 }
