@@ -337,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0796-rotate-string) |
+| [0572-subtree-of-another-tree](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0572-subtree-of-another-tree) |
 ## Trie
 |  |
 | ------- |
@@ -493,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0572-subtree-of-another-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -506,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0572-subtree-of-another-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -521,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0572-subtree-of-another-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -535,4 +539,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0543-diameter-of-binary-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
