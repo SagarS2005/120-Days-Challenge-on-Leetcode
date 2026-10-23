@@ -20,7 +20,6 @@ class Solution {
     }
 
     private int height(TreeNode root){
-
         if(root == null){
             return 0;
         }
@@ -32,7 +31,7 @@ class Solution {
             return -1;
         }
 
-        if(Math.abs(lh - rh) > 1){  //  if root is not binary tree then return -1 to indicate it is not binary tree
+        if(Math.abs(lh - rh) > 1){  //  if root is not balanced binary tree then return -1 to indicate it is not balanced binary tree
             return -1;
         }
 
