@@ -25,17 +25,13 @@ class Solution {
         if(root == null) return ;
         targetSum -= root.val;
         list.add(root.val);
-        if (root.left == null && root.right == null && targetSum == 0) {
-            // Fix 2: Add a new snapshot copy of the list, not the reference itself
-            ans.add(new ArrayList<>(list)); 
-        } else {
-            // Only search deeper if children exist
-            if (root.left != null) findList(root.left, targetSum, ans, list);
-            if (root.right != null) findList(root.right, targetSum, ans, list);
+        if(root.left == null && root.right == null  && targetSum == 0){
+            ans.add(new ArrayList<>(list));
         }
 
-        // Fix 3: Ensure backtracking occurs for every path by removing the early return
-        list.remove(list.size() - 1);
+        if(root.left != null) findList(root.left, targetSum, ans, list);
+        if(root.right != null) findList(root.right, targetSum, ans, list);
+        list.remove(list.size()-1);
     }
 
 
