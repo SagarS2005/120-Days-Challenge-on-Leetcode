@@ -1,26 +1,42 @@
 class Solution {
     public boolean isPalindrome(ListNode head) {
-        ListNode slow = head, fast = head, prev, temp;
-        while (fast != null && fast.next != null) {
+        if (head == null || head.next == null) return true;
+
+        // 1. Find the middle of the linked list (stops slow at the exact midpoint)
+        ListNode slow = head;
+        ListNode fast = head;
+        while (fast.next != null && fast.next.next != null) {
             slow = slow.next;
             fast = fast.next.next;
         }
-        prev = slow;
-        slow = slow.next;
-        prev.next = null;
-        while (slow != null) {
-            temp = slow.next;
-            slow.next = prev;
-            prev = slow;
-            slow = temp;
+
+        // 2. Reverse the second half
+        ListNode secondHalf = reverse(slow.next);
+        ListNode firstHalf = head;
+
+        // 3. Compare first half and reversed second half
+        boolean isPalin = true;
+        while (secondHalf != null) {
+            if (firstHalf.val != secondHalf.val) {
+                isPalin = false;
+                break;
+            }
+            firstHalf = firstHalf.next;
+            secondHalf = secondHalf.next;
         }
-        fast = head;
-        slow = prev;
-        while (slow != null) {
-            if (fast.val != slow.val) return false;
-            fast = fast.next;
-            slow = slow.next;
+
+        return isPalin;
+    }
+
+    private ListNode reverse(ListNode head) {
+        ListNode prev = null;
+        ListNode curr = head;
+        while (curr != null) {
+            ListNode nextNode = curr.next;
+            curr.next = prev;
+            prev = curr;
+            curr = nextNode;
         }
-        return true;
+        return prev;
     }
 }
