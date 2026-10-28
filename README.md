@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0148-sort-list) |
 | [0143-reorder-list](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0143-reorder-list) |
 | [0086-partition-list](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0086-partition-list) |
+| [0234-palindrome-linked-list](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Hash Table
 |  |
 | ------- |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [0234-palindrome-linked-list](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -424,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0143-reorder-list) |
 | [0002-add-two-numbers](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0002-add-two-numbers) |
+| [0234-palindrome-linked-list](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Linked List
 |  |
 | ------- |
@@ -444,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [1019-next-greater-node-in-linked-list](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [0086-partition-list](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0086-partition-list) |
+| [0234-palindrome-linked-list](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Quicksort
 |  |
 | ------- |
