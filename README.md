@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0347-top-k-frequent-elements](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0451-sort-characters-by-frequency](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0451-sort-characters-by-frequency) |
 ## Binary Search
 |  |
 | ------- |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0056-merge-intervals) |
 | [0148-sort-list](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0148-sort-list) |
 | [0347-top-k-frequent-elements](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0451-sort-characters-by-frequency](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0451-sort-characters-by-frequency) |
 ## Math
 |  |
 | ------- |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [0387-first-unique-character-in-a-string](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0347-top-k-frequent-elements](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0451-sort-characters-by-frequency](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0451-sort-characters-by-frequency) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -331,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [0316-remove-duplicate-letters](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
+| [0451-sort-characters-by-frequency](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0451-sort-characters-by-frequency) |
 ## Greedy
 |  |
 | ------- |
@@ -360,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0023-merge-k-sorted-lists](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0347-top-k-frequent-elements](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0451-sort-characters-by-frequency](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0451-sort-characters-by-frequency) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -483,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0451-sort-characters-by-frequency](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0451-sort-characters-by-frequency) |
 ## Quickselect
 |  |
 | ------- |
