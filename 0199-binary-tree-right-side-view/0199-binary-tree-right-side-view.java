@@ -15,6 +15,8 @@
  */
 
  class Solution {
+
+    // depth fistr search
     List<Integer> list;
     public List<Integer> rightSideView(TreeNode root) {
         list = new ArrayList<>();
@@ -31,6 +33,8 @@
         
     }
 }
+
+//  Level  order traversal
 // class Solution {
 //     public List<Integer> rightSideView(TreeNode root) {
 //         if(root == null) return new ArrayList<>();
