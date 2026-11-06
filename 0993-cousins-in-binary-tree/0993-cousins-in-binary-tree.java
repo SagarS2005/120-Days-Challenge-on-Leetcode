@@ -52,7 +52,18 @@ class Solution {
         return false;
     }
 
-   
+}
+
+//                  Using DFS
+// class Solution {
+//     TreeNode xParent = null;
+//     TreeNode yParent = null ;
+//     int xDepth = -1;
+//     int yDepth = -1;
+//     public boolean isCousins(TreeNode root, int x, int y) {
+//         dfs(root, null, x, y , 0);
+//         return xDepth == yDepth && xParent != yParent;
+//     }
     // public boolean isCousins(TreeNode root, int x, int y) {
     //     dfs(root, null, x, y , 0);
     //     return xDepth == yDepth && xParent != yParent;
@@ -73,4 +84,4 @@ class Solution {
     //     dfs(node.left, node, x, y , level +1);
     //     dfs(node.right, node, x, y , level +1);
     // }
-}
+// }
