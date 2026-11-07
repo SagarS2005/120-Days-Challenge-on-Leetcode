@@ -33,10 +33,10 @@ class Solution {
             Node head = leftMost;
 
             while(head != null){
-                head.left.next = head.right;
+                head.left.next = head.right;    // connect sibling
 
                 if(head.next != null){
-                    head.right.next = head.next.left;
+                    head.right.next = head.next.left; // connect cousins
                 }
                 head = head.next;
             }
