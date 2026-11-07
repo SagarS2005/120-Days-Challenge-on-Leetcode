@@ -453,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-next-greater-node-in-linked-list](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [0086-partition-list](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0086-partition-list) |
 | [0234-palindrome-linked-list](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 ## Quicksort
 |  |
 | ------- |
@@ -514,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0437-path-sum-iii) |
 | [0199-binary-tree-right-side-view](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0993-cousins-in-binary-tree](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0993-cousins-in-binary-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -533,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0437-path-sum-iii) |
 | [0199-binary-tree-right-side-view](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0993-cousins-in-binary-tree](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0993-cousins-in-binary-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 ## Binary Tree
 |  |
 | ------- |
@@ -554,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0437-path-sum-iii) |
 | [0199-binary-tree-right-side-view](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0993-cousins-in-binary-tree](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0993-cousins-in-binary-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -567,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0993-cousins-in-binary-tree](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0993-cousins-in-binary-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 ## DP on Trees
 |  |
 | ------- |
