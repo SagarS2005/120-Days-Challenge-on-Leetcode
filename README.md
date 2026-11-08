@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0303-range-sum-query-immutable](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Two Pointers
 |  |
 | ------- |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0148-sort-list) |
 | [0347-top-k-frequent-elements](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Counting
 |  |
 | ------- |
@@ -516,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0993-cousins-in-binary-tree](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0993-cousins-in-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -558,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0993-cousins-in-binary-tree](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0993-cousins-in-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -584,4 +588,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0113-path-sum-ii) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
