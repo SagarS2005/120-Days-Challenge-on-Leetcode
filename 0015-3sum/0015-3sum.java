@@ -1,33 +1,37 @@
 class Solution {
-    public List<List<Integer>> threeSum(int[] a) {
-        Arrays.sort(a);
-        List <List<Integer>> list = new ArrayList<>();
-        
+    public List<List<Integer>> threeSum(int[] nums) {
+        Arrays.sort(nums);  // -4, -1, -1, 0, 1, 2 
 
-        for( int start=0; start<a.length-2; start++){
-            if(start>0 && a[start] == a[start-1]) continue;
-            int find=start+1;
-            int end=a.length-1;
-            while(find<end){
-                int sum = a[start]+a[find]+a[end];
-                if(sum  == 0 ) {
-                    List <Integer> li= new ArrayList<>(Arrays.asList(a[start],a[find],a[end]));
-                
-                    list.add(li);  
-                    while(find < end && a[find] == a[find+1]) find++;
-                    while(find < end && a[end] == a[end-1]) end--;
+        List<List<Integer>> result = new ArrayList<>();
 
-                find++;
-                end--;
-                }
-                else if(sum  > 0){
+        for(int i = 0; i < nums.length-2; i++){
+            if(i > 0 && nums[i] == nums[i-1]){   // if last == present then 
+                continue;
+            }
+
+            int start = i + 1;
+            int end = nums.length-1;
+
+            while(start < end){
+                int sum = nums[i] + nums[start] + nums[end];
+                if(sum == 0){
+                    List<Integer> list = new ArrayList<>(Arrays.asList(nums[i], nums[start], nums[end]));
+                    
+                    result.add(list);
+
+                    while(start < end && nums[start] == nums[start+1]) start++;
+                    while(start < end && nums[end] == nums[end-1]) end--;
+
+                    start++;
                     end--;
                 }
-                else{
-                    find++;
-                }
+
+                else if(sum > 0) end--; // focus if i don't write else if then it won't work
+                else start++;
             }
         }
-        return list;       
+        return result;
+
+        
     }
 }
