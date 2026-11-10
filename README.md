@@ -520,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -541,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0993-cousins-in-binary-tree](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0993-cousins-in-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -565,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -595,12 +598,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Binary Lifting
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Lowest Common Ancestor
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 <!---LeetCode Topics End-->
