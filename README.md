@@ -523,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+| [0226-invert-binary-tree](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0226-invert-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -546,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+| [0226-invert-binary-tree](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0226-invert-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -572,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+| [0226-invert-binary-tree](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0226-invert-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -587,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0993-cousins-in-binary-tree](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0993-cousins-in-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+| [0226-invert-binary-tree](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0226-invert-binary-tree) |
 ## DP on Trees
 |  |
 | ------- |
