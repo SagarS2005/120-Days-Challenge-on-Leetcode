@@ -296,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [0234-palindrome-linked-list](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -457,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0086-partition-list) |
 | [0234-palindrome-linked-list](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Quicksort
 |  |
 | ------- |
@@ -524,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [0226-invert-binary-tree](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0226-invert-binary-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -548,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [0226-invert-binary-tree](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0226-invert-binary-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Binary Tree
 |  |
 | ------- |
@@ -575,6 +579,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [0226-invert-binary-tree](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0226-invert-binary-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Breadth-First Search
 |  |
 | ------- |
