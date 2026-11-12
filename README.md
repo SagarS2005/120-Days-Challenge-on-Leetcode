@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0128-longest-consecutive-sequence](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0128-longest-consecutive-sequence) |
 ## Two Pointers
 |  |
 | ------- |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+| [0128-longest-consecutive-sequence](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0128-longest-consecutive-sequence) |
 ## Binary Search
 |  |
 | ------- |
@@ -626,4 +628,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
