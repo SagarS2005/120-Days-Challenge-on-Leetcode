@@ -531,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0700-search-in-a-binary-search-tree](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0098-validate-binary-search-tree](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0098-validate-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -556,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [0226-invert-binary-tree](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0226-invert-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0098-validate-binary-search-tree](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0098-validate-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -586,6 +588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0700-search-in-a-binary-search-tree](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0098-validate-binary-search-tree](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0098-validate-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -622,6 +625,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0098-validate-binary-search-tree](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0098-validate-binary-search-tree) |
 ## Binary Lifting
 |  |
 | ------- |
