@@ -535,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0701-insert-into-a-binary-search-tree](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0098-validate-binary-search-tree](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0450-delete-node-in-a-bst](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0450-delete-node-in-a-bst) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -594,6 +595,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0701-insert-into-a-binary-search-tree](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0098-validate-binary-search-tree](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0450-delete-node-in-a-bst](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0450-delete-node-in-a-bst) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -633,6 +635,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0701-insert-into-a-binary-search-tree](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0098-validate-binary-search-tree](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0450-delete-node-in-a-bst](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0450-delete-node-in-a-bst) |
 ## Binary Lifting
 |  |
 | ------- |
