@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0128-longest-consecutive-sequence](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 ## Two Pointers
 |  |
 | ------- |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [0128-longest-consecutive-sequence](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 ## Binary Search
 |  |
 | ------- |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0148-sort-list) |
 | [0347-top-k-frequent-elements](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 ## Counting
 |  |
 | ------- |
@@ -536,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0450-delete-node-in-a-bst) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -596,6 +600,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0450-delete-node-in-a-bst) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
