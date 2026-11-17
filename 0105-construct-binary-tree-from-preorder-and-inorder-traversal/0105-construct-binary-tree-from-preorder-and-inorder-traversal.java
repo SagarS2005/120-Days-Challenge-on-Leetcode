@@ -1,37 +1,40 @@
+/**
+ * Definition for a binary tree node.
+ * public class TreeNode {
+ *     int val;
+ *     TreeNode left;
+ *     TreeNode right;
+ *     TreeNode() {}
+ *     TreeNode(int val) { this.val = val; }
+ *     TreeNode(int val, TreeNode left, TreeNode right) {
+ *         this.val = val;
+ *         this.left = left;
+ *         this.right = right;
+ *     }
+ * }
+ */
 class Solution {
-    private TreeNode build(int lowpre, int highpre,
-                           int lowin, int highin,
-                           int[] preorder, int[] inorder,
-                           HashMap<Integer, Integer> map) {
-
-        if (lowpre > highpre) return null;
-
-        int root = preorder[lowpre];
-        TreeNode r = new TreeNode(root);
-
-        int indx = map.get(root);
-        int cnt = indx - lowin;
-
-        r.left = build(lowpre + 1, lowpre + cnt,
-                       lowin, indx - 1,
-                       preorder, inorder, map);
-
-        r.right = build(lowpre + cnt + 1, highpre,
-                        indx + 1, highin,
-                        preorder, inorder, map);
-
-        return r;
+    Map<Integer,Integer> map = new HashMap<>();
+    int preorderIndex = 0;
+    public TreeNode buildTree(int[] preorder, int[] inorder) {
+        for(int i = 0; i< inorder.length; i++){
+            map.put(inorder[i],i );
+        }
+        return build(preorder, 0, inorder.length-1);
     }
 
-    public TreeNode buildTree(int[] preorder, int[] inorder) {
-        HashMap<Integer, Integer> map = new HashMap<>();
-        int n = inorder.length;
-
-        for (int i = 0; i < n; i++) {
-            map.put(inorder[i], i);
+    private TreeNode build(int [] preorder, int left, int right){
+        if(left > right) {
+            return null;
         }
+        TreeNode root = new TreeNode(preorder[preorderIndex++]);
 
-        return build(0, n - 1, 0, n - 1,
-                     preorder, inorder, map);
+        int inorderIndex = map.get(root.val);
+
+        root.left = build(preorder, left , inorderIndex -1);
+
+        root.right = build(preorder, inorderIndex + 1, right);
+        
+        return root;
     }
 }
