@@ -29,14 +29,14 @@ class Solution {
         TreeNode root = new TreeNode(preorder[preorderStart]);
         if(preorderStart == preorderEnd) return root;
             int nextNode = preorder[preorderStart +1 ];
-        int j = postorderStart;
+        // int j = postorderStart;
         
-        while(postorder[j] != nextNode){
-            j++;
-        }
+        // while(postorder[j] != nextNode){
+        //     j++;
+        // }
 
+        int j = map.get(preorder[preorderStart + 1]);
         int size = j - postorderStart + 1;
-        // int size = map.get(preorder[preorderStart + 1]);
         // preorderEnd = size - preorderStart + 1;
         
         root.left = constructTree(preorder, postorder, preorderStart + 1, postorderStart, preorderStart + size );
