@@ -35,7 +35,7 @@ class Solution {
         //     j++;
         // }
 
-        int j = map.get(preorder[preorderStart + 1]);
+        int j = map.get(nextNode);
         int size = j - postorderStart + 1;
         // preorderEnd = size - preorderStart + 1;
         
