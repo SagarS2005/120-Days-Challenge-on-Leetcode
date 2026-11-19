@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [0004-median-of-two-sorted-arrays](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0222-count-complete-tree-nodes](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0222-count-complete-tree-nodes) |
 ## Sorting
 |  |
 | ------- |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0191-number-of-1-bits) |
 | [0136-single-number](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0136-single-number) |
 | [0693-binary-number-with-alternating-bits](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0693-binary-number-with-alternating-bits) |
+| [0222-count-complete-tree-nodes](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0222-count-complete-tree-nodes) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -549,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0222-count-complete-tree-nodes) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -612,6 +615,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0222-count-complete-tree-nodes) |
 ## Breadth-First Search
 |  |
 | ------- |
