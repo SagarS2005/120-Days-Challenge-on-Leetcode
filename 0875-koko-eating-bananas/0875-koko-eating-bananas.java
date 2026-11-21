@@ -21,7 +21,6 @@ class Solution {
         return ans;
     }
 
-    // helper function to check validation
     private boolean canEat(int [] piles, int h, int k){
         long hours = 0;
         for(int p : piles){
