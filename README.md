@@ -581,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0098-validate-binary-search-tree](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0547-number-of-provinces](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0547-number-of-provinces) |
 ## Binary Tree
 |  |
 | ------- |
@@ -635,6 +636,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [0226-invert-binary-tree](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0226-invert-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0547-number-of-provinces](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0547-number-of-provinces) |
 ## DP on Trees
 |  |
 | ------- |
@@ -674,4 +676,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0547-number-of-provinces](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
