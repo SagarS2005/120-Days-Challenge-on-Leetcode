@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [0561-array-partition](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0561-array-partition) |
 ## Two Pointers
 |  |
 | ------- |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0148-sort-list) |
 | [0347-top-k-frequent-elements](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0561-array-partition](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0561-array-partition) |
 ## Math
 |  |
 | ------- |
@@ -362,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0316-remove-duplicate-letters](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0316-remove-duplicate-letters) |
+| [0561-array-partition](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0561-array-partition) |
 ## String Matching
 |  |
 | ------- |
@@ -681,4 +684,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0547-number-of-provinces) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
