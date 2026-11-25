@@ -18,7 +18,7 @@ class Solution {
             if (map.get(key) > maxCount) {
             maxCount = map.get(key); // Save the highest count seen
             majority = key;          // Save the actual element
-        }
+            }
             
         }
         return majority;
