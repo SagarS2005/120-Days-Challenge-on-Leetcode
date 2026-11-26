@@ -1,39 +1,24 @@
 class Solution {
+    public int findCircleNum(int[][] isConnected) {
+        int count = 0;
+        int visited[] = new int[isConnected.length];
 
-    public void dfs(int node, int[][] isConnected, boolean[] visited){
-
-        // Mark current city as visited
-        visited[node] = true;
-
-        // Visit all neighbouring cities
         for(int i = 0; i < isConnected.length; i++){
-
-            if(!visited[i] && isConnected[node][i] == 1){
-                dfs(i, isConnected, visited);
+            if(visited[i] != 1){
+                dfs(i, visited, isConnected);
+                count++;
             }
         }
+        return count;
     }
 
-    public int findCircleNum(int[][] isConnected) {
+    private void dfs(int node, int [] visited, int[][] isConnected){
+        visited[node] =1 ;
 
-        int n = isConnected.length;
-
-        boolean[] visited = new boolean[n];
-
-        int provinces = 0;
-
-        // Traverse every city
-        for(int i = 0; i < n; i++){
-
-            // New province found
-            if(!visited[i]){
-
-                dfs(i, isConnected, visited);
-
-                provinces++;
+        for(int i = 0; i < isConnected.length; i++){
+            if(isConnected[node][i] == 1 && visited[i] != 1){
+                dfs(i, visited, isConnected);
             }
         }
-
-        return provinces;
     }
 }
