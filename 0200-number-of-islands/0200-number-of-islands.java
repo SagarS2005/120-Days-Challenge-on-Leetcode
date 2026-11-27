@@ -33,7 +33,7 @@ class Solution {
     //     dfs(i, j - 1, rows, cols, visited, grid);
     // }
 
-
+    // Without using visited[][] array (saved O(n^2))
     public int numIslands(char[][] grid) {
         if (grid == null || grid.length == 0) {
             return 0;
