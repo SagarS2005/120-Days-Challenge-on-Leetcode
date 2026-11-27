@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [0561-array-partition](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0561-array-partition) |
+| [0200-number-of-islands](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0200-number-of-islands) |
 ## Two Pointers
 |  |
 | ------- |
@@ -401,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2965-find-missing-and-repeated-values](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [0074-search-a-2d-matrix](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0200-number-of-islands](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0200-number-of-islands) |
 ## Simulation
 |  |
 | ------- |
@@ -585,6 +587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0547-number-of-provinces](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0547-number-of-provinces) |
+| [0200-number-of-islands](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0200-number-of-islands) |
 ## Binary Tree
 |  |
 | ------- |
@@ -640,6 +643,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0226-invert-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0547-number-of-provinces](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0547-number-of-provinces) |
+| [0200-number-of-islands](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0200-number-of-islands) |
 ## DP on Trees
 |  |
 | ------- |
@@ -680,6 +684,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0547-number-of-provinces](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0547-number-of-provinces) |
+| [0200-number-of-islands](https://github.com/SagarS2005/120-Days-Challenge-on-Leetcode/tree/master/0200-number-of-islands) |
 ## Graph Theory
 |  |
 | ------- |
