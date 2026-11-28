@@ -4,6 +4,7 @@ class Solution {
         int row = image.length -1 ;
         int col = image[0].length -1 ;
         int filledNumber = image[sr][sc];
+        if(filledNumber == color) return image;
         dfs(sr, sc, color, image, row, col, filledNumber);
         return image;
     }
