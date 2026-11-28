@@ -1,7 +1,5 @@
 class Solution {
     public int findCircleNum(int[][] isConnected) {
-        // int row = isConnected.length -1;
-        // int col = isConnected[0].length -1;
         int countProvinces = 0;
         int visited[] = new int[isConnected.length];
 
